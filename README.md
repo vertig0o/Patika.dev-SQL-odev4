@@ -1,4 +1,4 @@
-# Patika.dev-SQL-odev5
+# Patika.dev-SQL-odev4
 
 1. film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
  ```
